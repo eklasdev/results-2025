@@ -91,7 +91,7 @@ const App: React.FC = () => {
         )}
       </div>
        <footer className="text-center text-xs text-gray-500 mt-auto py-4">
-        Powerd by ksmp.pages.dev | maintain by eklas.tech
+        powered by ksmp.pages.dev | maintain by eklas.tech
       </footer>
     </div>
   );
