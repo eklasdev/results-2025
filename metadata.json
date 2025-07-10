@@ -1,0 +1,5 @@
+{
+  "name": "Student Result Viewer",
+  "description": "An application to view and search for student academic results and grade sheets in a format inspired by the Bangladesh Education Board.",
+  "requestFramePermissions": []
+}
